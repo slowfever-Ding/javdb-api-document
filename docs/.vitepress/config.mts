@@ -5,6 +5,11 @@ export default defineConfig({
   base: '/javdb-api-document/',
   title: "JavDB API",
   description: "JavDB 影视数据接口开发文档",
+  lang: 'zh-CN',
+
+  lastUpdated: true,
+  cleanUrls: true,
+
   locales: {
     root: {
       label: '简体中文',
