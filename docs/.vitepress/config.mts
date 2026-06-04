@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/javdb-api-document/',
+  base: '/',
   title: "JavDB API",
   description: "JavDB 影视数据接口开发文档",
   lang: 'zh-CN',
