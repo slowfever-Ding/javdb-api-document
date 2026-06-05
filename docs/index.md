@@ -6,7 +6,7 @@ hero:
   text: "轻量级、高性能的视频数据接口"
   tagline: 提供视频列表、搜索、标签统计和随机推荐接口
   image:
-    src: //github.com/slowfever-Ding/javdb-api-document/blob/main/docs/logo.png?raw=true
+    src: https://raw.githubusercontent.com/slowfever-Ding/javdb-api-document/refs/heads/main/docs/logo.png?token=GHSAT0AAAAAAD53KISZN3SC62LMBHBDEUN42RCS4CQ
     alt: JavDB API
   actions:
     - theme: brand
