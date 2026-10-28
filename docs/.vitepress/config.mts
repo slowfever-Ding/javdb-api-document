@@ -7,6 +7,10 @@ export default defineConfig({
   description: "JavDB 影视数据接口开发文档",
   lang: 'zh-CN',
 
+  head: [
+    ['link', {rel: 'icon', href: 'https://www.google.com/s2/favicons?domain=javdb.com&sz=64'}]
+  ],
+
   lastUpdated: true,
   cleanUrls: true,
 
@@ -15,6 +19,7 @@ export default defineConfig({
       label: '简体中文',
       lang: 'zh-CN',
       themeConfig: {
+        logo: 'https://www.google.com/s2/favicons?domain=javdb.com&sz=64',
         outlineTitle: '页面目录',
         returnToTopLabel: '返回顶部',
       }
