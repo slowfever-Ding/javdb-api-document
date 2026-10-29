@@ -1,0 +1,11 @@
+/* docs/.vitepress/theme/custom.css */
+html {
+    scroll-behavior: smooth;
+}
+
+/* 推荐：尊重用户系统设置，减少动效偏好时不启用 */
+@media (prefers-reduced-motion: no-preference) {
+    html {
+        scroll-behavior: smooth;
+    }
+}
